@@ -1,0 +1,15 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+# COCO128 dataset https://www.kaggle.com/ultralytics/coco128 (first 128 images from COCO train2017) by Ultralytics
+path: ../datasets/jg/jg_datasets # dataset root dir
+train: images/train # train images 
+val: images/val # val images 
+
+# Classes
+names:
+  0: good
+  1: broke
+  2: lose
+  3: uncovered
+  4: circle
+
+
